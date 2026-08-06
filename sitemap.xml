@@ -40,4 +40,8 @@
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/thank-you.html</loc>
     <priority>0.20</priority>
   </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/privacy-policy.html</loc>
+    <priority>0.30</priority>
+  </url>
 </urlset>
