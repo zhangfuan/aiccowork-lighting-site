@@ -51,3 +51,11 @@ window.addEventListener('scroll', () => {
   else backTop?.classList.remove('show');
 });
 backTop?.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}));
+
+// Prevent duplicate inquiry submissions
+document.querySelectorAll('form[action^="https://formsubmit"]').forEach(form => {
+  form.addEventListener('submit', () => {
+    const btn = form.querySelector('button[type="submit"]');
+    if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
+  });
+});
