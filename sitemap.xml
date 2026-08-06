@@ -40,4 +40,28 @@
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/privacy-policy.html</loc>
     <priority>0.30</priority>
   </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/about.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/index.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/how-to-choose-off-road-led-light-bar.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-work-light-buying-guide.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-light-bar-vs-work-light.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/oem-automotive-lighting-guide.html</loc>
+    <priority>0.60</priority>
+  </url>
 </urlset>
