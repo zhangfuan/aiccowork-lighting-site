@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# Thank-you page is not meant for search results
+Disallow: /thank-you.html
+
 Sitemap: https://zhangfuan.github.io/aiccowork-lighting-site/sitemap.xml
