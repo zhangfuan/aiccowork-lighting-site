@@ -16,8 +16,11 @@
     }
   }
 
+  /* Resolve privacy-policy.html relative to the current directory depth so it
+     works on the home page, /products/, /blog/ and a future custom domain. */
   function privacyPath() {
-    return location.pathname.indexOf('/products/') !== -1 ? '../privacy-policy.html' : 'privacy-policy.html';
+    var segs = location.pathname.split('/').filter(Boolean);
+    return segs.length > 1 ? '../'.repeat(segs.length - 1) + 'privacy-policy.html' : 'privacy-policy.html';
   }
 
   function showBanner() {

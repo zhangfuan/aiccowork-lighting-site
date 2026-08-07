@@ -52,10 +52,34 @@ window.addEventListener('scroll', () => {
 });
 backTop?.addEventListener('click', () => window.scrollTo({top: 0, behavior: 'smooth'}));
 
-// Prevent duplicate inquiry submissions
+// GA4 conversion events (fires only after user grants consent via consent.js)
+function trackEvent(name, params) {
+  if (window.gtag) gtag('event', name, params || {});
+}
+
+// Prevent duplicate inquiry submissions + track lead attempts
 document.querySelectorAll('form[action^="https://formsubmit"]').forEach(form => {
   form.addEventListener('submit', () => {
     const btn = form.querySelector('button[type="submit"]');
     if (btn) { btn.disabled = true; btn.textContent = 'Sending...'; }
+    trackEvent('generate_lead', {
+      event_category: 'inquiry',
+      product: form.querySelector('select[name="product"]')?.value || '',
+      page_path: location.pathname
+    });
+  });
+});
+
+// Track WhatsApp contact clicks
+document.querySelectorAll('a[href^="https://wa.me"]').forEach(a => {
+  a.addEventListener('click', () => {
+    trackEvent('wa_click', { event_category: 'contact', page_path: location.pathname });
+  });
+});
+
+// Track email contact clicks
+document.querySelectorAll('a[href^="mailto:"]').forEach(a => {
+  a.addEventListener('click', () => {
+    trackEvent('email_click', { event_category: 'contact', page_path: location.pathname });
   });
 });
