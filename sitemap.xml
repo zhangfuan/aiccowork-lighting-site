@@ -2,101 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/led-light-bars.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/work-lights.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/headlight-assemblies.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/330w-rgb-off-road-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/330w-vehicle-work-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/220w-vehicle-work-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/led-light-bar.html</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/modular-led-light-bar.html</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/21-inch-led-light-bar.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/124w-led-headlight-bar.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/bmw-headlight-assembly.html</loc>
-    <lastmod>2026-08-07</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/oled-tail-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/rectangular-work-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/privacy-policy.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.30</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/about.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/index.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/how-to-choose-off-road-led-light-bar.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-work-light-buying-guide.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-light-bar-vs-work-light.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/oem-automotive-lighting-guide.html</loc>
-    <lastmod>2026-08-07</lastmod>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/21-inch-led-light-bar.html</loc>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/bmw-5-series-headlight.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
@@ -108,11 +45,43 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/124w-led-headlight-bar.html</loc>
-    <priority>0.80</priority>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/led-light-bars.html</loc>
+    <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/bmw-5-series-headlight.html</loc>
-    <priority>0.80</priority>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/work-lights.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/products/headlight-assemblies.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/about.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/index.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/how-to-choose-off-road-led-light-bar.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-work-light-buying-guide.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/led-light-bar-vs-work-light.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/blog/oem-automotive-lighting-guide.html</loc>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://zhangfuan.github.io/aiccowork-lighting-site/privacy-policy.html</loc>
+    <priority>0.30</priority>
   </url>
 </urlset>
